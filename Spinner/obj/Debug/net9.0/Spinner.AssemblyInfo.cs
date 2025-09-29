@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spinner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb03ef8787daf880028612af8281dc49c2fdb070")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4f8ebc282481a1dca6da3ba0b25a51396b9c55a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spinner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spinner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

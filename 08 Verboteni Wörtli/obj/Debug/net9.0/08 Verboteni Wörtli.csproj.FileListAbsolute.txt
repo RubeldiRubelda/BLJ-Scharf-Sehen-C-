@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\obj\Debug\net9.0\08 Verboteni Wörtli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\obj\Debug\net9.0\08 Verboteni Wörtli.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\obj\Debug\net9.0\08 Verboteni Wörtli.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\obj\Debug\net9.0\08 Verboteni Wörtli.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\obj\Debug\net9.0\08 Verboteni Wörtli.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\bin\Debug\net9.0\08 Verboteni Wörtli.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\bin\Debug\net9.0\08 Verboteni Wörtli.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\bin\Debug\net9.0\08 Verboteni Wörtli.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\bin\Debug\net9.0\08 Verboteni Wörtli.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\bin\Debug\net9.0\08 Verboteni Wörtli.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\obj\Debug\net9.0\08 Verboteni Wörtli.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\obj\Debug\net9.0\refint\08 Verboteni Wörtli.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\obj\Debug\net9.0\08 Verboteni Wörtli.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\obj\Debug\net9.0\08 Verboteni Wörtli.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\08 Verboteni Wörtli\obj\Debug\net9.0\ref\08 Verboteni Wörtli.dll
