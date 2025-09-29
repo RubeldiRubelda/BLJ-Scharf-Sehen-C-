@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spinner", "Spinner\Spinner.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Kleines 1x1", "06 Kleines 1x1\06 Kleines 1x1.csproj", "{8A7553F6-158D-46DD-BF4A-5F8C2D306925}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 Durch 3 oder 5 teilbare Zahlen", "07 Durch 3 oder 5 teilbare Zahlen\07 Durch 3 oder 5 teilbare Zahlen.csproj", "{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{8A7553F6-158D-46DD-BF4A-5F8C2D306925}.Release|x64.Build.0 = Release|Any CPU
 		{8A7553F6-158D-46DD-BF4A-5F8C2D306925}.Release|x86.ActiveCfg = Release|Any CPU
 		{8A7553F6-158D-46DD-BF4A-5F8C2D306925}.Release|x86.Build.0 = Release|Any CPU
+		{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}.Debug|x64.Build.0 = Debug|Any CPU
+		{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}.Debug|x86.Build.0 = Debug|Any CPU
+		{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}.Release|x64.ActiveCfg = Release|Any CPU
+		{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}.Release|x64.Build.0 = Release|Any CPU
+		{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}.Release|x86.ActiveCfg = Release|Any CPU
+		{6E43D9E4-6068-4AAD-ABD8-F365162E28F7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

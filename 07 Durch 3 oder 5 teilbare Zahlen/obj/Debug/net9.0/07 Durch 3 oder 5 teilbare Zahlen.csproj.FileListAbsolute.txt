@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\bin\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\bin\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\bin\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\bin\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\bin\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\obj\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\obj\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\obj\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\obj\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\obj\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\obj\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\obj\Debug\net9.0\refint\07 Durch 3 oder 5 teilbare Zahlen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\obj\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\obj\Debug\net9.0\07 Durch 3 oder 5 teilbare Zahlen.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\07 Durch 3 oder 5 teilbare Zahlen\obj\Debug\net9.0\ref\07 Durch 3 oder 5 teilbare Zahlen.dll
