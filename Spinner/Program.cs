@@ -9,6 +9,10 @@ class Program
 
         Console.WriteLine("Nächste Aufgabe geht hier weiter...");
         // ab hier dein weiterer Code
+
+
+
+
     }
 
     static void ShowSpinner(int durationMs)

@@ -6,6 +6,7 @@ namespace Program
         static void Main(string[] args)
         {
             int makingKilometers;
+            int bahnRundenLänge = 400; // in Meter
 
 
 
@@ -23,7 +24,9 @@ namespace Program
                 else
                 {
 
-                    Console.WriteLine("Berechne anzahl Bahnrunden... " + makingKilometers);
+                    Console.WriteLine("Berechne anzahl Bahnrunden... ");
+                    int anzahlRunden = (makingKilometers * 1000) / bahnRundenLänge;
+                    Console.WriteLine("Du musst " + anzahlRunden + " Bahnrunden laufen.");  
                 }
             }
             else
