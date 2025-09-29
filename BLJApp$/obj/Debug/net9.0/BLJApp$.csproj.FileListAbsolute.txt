@@ -12,3 +12,4 @@ C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\ref
 C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\BLJApp$.pdb
 C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\BLJApp$.genruntimeconfig.cache
 C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\ref\BLJApp$.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\BLJApp$.sourcelink.json
