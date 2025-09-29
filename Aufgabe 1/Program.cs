@@ -1,16 +1,18 @@
-using System;
+﻿using System;
 namespace Addierer
 {
-    internal class AddiererProgram
+    internal class Program
     {
-        public static void Addiere()
+        static void Main()
         {
             int number1;
             int number2;
             int summe;
 
+
+            Console.Write("Willkommen beim Grandiosen Addierer! Wählen Sie die Zahlen: ");
             Console.Write("Geben Sie die erste Zahl ein: ");
-            number1 = Convert.ToInt32(Console.ReadLine()); 
+            number1 = Convert.ToInt32(Console.ReadLine());
 
 
             Console.Write("Geben Sie die zweite Zahl ein: ");

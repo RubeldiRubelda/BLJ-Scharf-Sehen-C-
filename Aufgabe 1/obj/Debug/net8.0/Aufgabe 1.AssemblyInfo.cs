@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BLJApp$")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Aufgabe 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a316ddac7d5611d53ad59a13349f68ad105b06a5")]
-[assembly: System.Reflection.AssemblyProductAttribute("BLJApp$")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BLJApp$")]
+[assembly: System.Reflection.AssemblyProductAttribute("Aufgabe 1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Aufgabe 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.
