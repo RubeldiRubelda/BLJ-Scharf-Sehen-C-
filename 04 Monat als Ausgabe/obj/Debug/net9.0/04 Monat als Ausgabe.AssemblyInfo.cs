@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04 Monat als Ausgabe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae459d1251a3a33550c551d868920eeba0c9979b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4186e016443cd84fe7303c505065afd65e21d571")]
 [assembly: System.Reflection.AssemblyProductAttribute("04 Monat als Ausgabe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04 Monat als Ausgabe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

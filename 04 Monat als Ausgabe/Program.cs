@@ -7,19 +7,19 @@
 
             // ---------------- Array mit Monatsnamen ---------------- //
             string[] month = new string[13];
-            month[0] = "";
-            month[1] = "January";
-            month[2] = "February";
-            month[3] = "March";
-            month[4] = "April";
-            month[5] = "May";
-            month[6] = "June";
-            month[7] = "July";
-            month[8] = "August";
-            month[9] = "September";
-            month[10] = "October";
-            month[11] = "November";
-            month[12] = "December";
+            
+            month[0] = "January";
+            month[1] = "February";
+            month[2] = "March";
+            month[3] = "April";
+            month[4] = "May";
+            month[5] = "June";
+            month[6] = "July";
+            month[7] = "August";
+            month[8] = "September";
+            month[9] = "October";
+            month[10] = "November";
+            month[11] = "December";
             
 
             // ---------------- Code oder so, isch das ned GRANDIOS??? ---------------- //
@@ -38,8 +38,8 @@
                 }
                 else
                 {
-                   
-                    Console.WriteLine("Der Monat lautet " + month[daysInMonth]);
+
+                    Console.WriteLine("Der Monat lautet " + month[daysInMonth - 1]); // -1 weil der Array bei 0 beginnt. allenfalls könnte man aber auch den Array mit 0 Leer lassen               
                 }
             }
             else
