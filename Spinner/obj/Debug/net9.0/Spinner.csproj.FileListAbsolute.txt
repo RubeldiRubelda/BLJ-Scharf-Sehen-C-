@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\bin\Debug\net9.0\Spinner.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\bin\Debug\net9.0\Spinner.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\bin\Debug\net9.0\Spinner.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\bin\Debug\net9.0\Spinner.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\bin\Debug\net9.0\Spinner.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\obj\Debug\net9.0\Spinner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\obj\Debug\net9.0\Spinner.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\obj\Debug\net9.0\Spinner.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\obj\Debug\net9.0\Spinner.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\obj\Debug\net9.0\Spinner.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\obj\Debug\net9.0\Spinner.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\obj\Debug\net9.0\refint\Spinner.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\obj\Debug\net9.0\Spinner.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\obj\Debug\net9.0\Spinner.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Spinner\obj\Debug\net9.0\ref\Spinner.dll
