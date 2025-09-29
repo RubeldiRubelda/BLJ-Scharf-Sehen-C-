@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\bin\Debug\net9.0\05 Flussdiagramm NR2.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\bin\Debug\net9.0\05 Flussdiagramm NR2.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\bin\Debug\net9.0\05 Flussdiagramm NR2.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\bin\Debug\net9.0\05 Flussdiagramm NR2.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\bin\Debug\net9.0\05 Flussdiagramm NR2.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\obj\Debug\net9.0\05 Flussdiagramm NR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\obj\Debug\net9.0\05 Flussdiagramm NR2.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\obj\Debug\net9.0\05 Flussdiagramm NR2.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\obj\Debug\net9.0\05 Flussdiagramm NR2.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\obj\Debug\net9.0\05 Flussdiagramm NR2.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\obj\Debug\net9.0\05 Flussdiagramm NR2.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\obj\Debug\net9.0\refint\05 Flussdiagramm NR2.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\obj\Debug\net9.0\05 Flussdiagramm NR2.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\obj\Debug\net9.0\05 Flussdiagramm NR2.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\05 Flussdiagramm NR2\obj\Debug\net9.0\ref\05 Flussdiagramm NR2.dll

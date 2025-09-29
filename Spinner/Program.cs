@@ -21,7 +21,7 @@ class Program
         while (DateTime.Now < endTime)
         {
             Console.Write(spinner[counter % spinner.Length]);
-            Thread.Sleep(100); // Geschwindigkeit einstellen
+            Thread.Sleep(50); // Geschwindigkeit einstellen
             Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop);
             counter++;
         }
