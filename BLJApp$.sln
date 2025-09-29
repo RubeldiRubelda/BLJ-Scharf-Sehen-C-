@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 1", "01 Addieren\Au
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe2", "02 Monat in Sekunden\02 Monat in Sekunden.csproj", "{BB0F9AF2-C7AE-4811-8196-B2998E3E4869}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Flussdiagramm", "03 Flussdiagramm\03 Flussdiagramm.csproj", "{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{BB0F9AF2-C7AE-4811-8196-B2998E3E4869}.Release|x64.Build.0 = Release|Any CPU
 		{BB0F9AF2-C7AE-4811-8196-B2998E3E4869}.Release|x86.ActiveCfg = Release|Any CPU
 		{BB0F9AF2-C7AE-4811-8196-B2998E3E4869}.Release|x86.Build.0 = Release|Any CPU
+		{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}.Debug|x64.Build.0 = Debug|Any CPU
+		{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}.Debug|x86.Build.0 = Debug|Any CPU
+		{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}.Release|x64.ActiveCfg = Release|Any CPU
+		{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}.Release|x64.Build.0 = Release|Any CPU
+		{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
