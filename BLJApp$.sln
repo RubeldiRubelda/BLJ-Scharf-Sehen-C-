@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLJApp$", "BLJApp$\BLJApp$.csproj", "{1D28F99C-D85B-4459-A0D3-DD4130DAA41F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 1", "Aufgabe 1\Aufgabe 1.csproj", "{784975DC-FDF1-416F-8083-F349E57E094F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 1", "01 Addieren\Aufgabe 1.csproj", "{784975DC-FDF1-416F-8083-F349E57E094F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe2", "Aufgabe2\Aufgabe2.csproj", "{BB0F9AF2-C7AE-4811-8196-B2998E3E4869}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe2", "02 Monat in Sekunden\02 Monat in Sekunden.csproj", "{BB0F9AF2-C7AE-4811-8196-B2998E3E4869}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

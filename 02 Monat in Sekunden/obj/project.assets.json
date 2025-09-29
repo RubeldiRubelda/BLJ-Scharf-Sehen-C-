@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\Aufgabe2\\Aufgabe2.csproj",
-      "projectName": "Aufgabe2",
-      "projectPath": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\Aufgabe2\\Aufgabe2.csproj",
+      "projectUniqueName": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\02 Monat in Sekunden\\02 Monat in Sekunden.csproj",
+      "projectName": "02 Monat in Sekunden",
+      "projectPath": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\02 Monat in Sekunden\\02 Monat in Sekunden.csproj",
       "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\Aufgabe2\\obj\\",
+      "outputPath": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\02 Monat in Sekunden\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

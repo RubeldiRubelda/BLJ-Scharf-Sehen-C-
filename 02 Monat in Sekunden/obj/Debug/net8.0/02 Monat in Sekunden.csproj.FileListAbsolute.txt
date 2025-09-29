@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\bin\Debug\net8.0\02 Monat in Sekunden.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\bin\Debug\net8.0\02 Monat in Sekunden.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\bin\Debug\net8.0\02 Monat in Sekunden.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\bin\Debug\net8.0\02 Monat in Sekunden.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\bin\Debug\net8.0\02 Monat in Sekunden.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\obj\Debug\net8.0\02 Monat in Sekunden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\obj\Debug\net8.0\02 Monat in Sekunden.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\obj\Debug\net8.0\02 Monat in Sekunden.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\obj\Debug\net8.0\02 Monat in Sekunden.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\obj\Debug\net8.0\02 Monat in Sekunden.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\obj\Debug\net8.0\02 Monat in Sekunden.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\obj\Debug\net8.0\refint\02 Monat in Sekunden.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\obj\Debug\net8.0\02 Monat in Sekunden.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\obj\Debug\net8.0\02 Monat in Sekunden.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\02 Monat in Sekunden\obj\Debug\net8.0\ref\02 Monat in Sekunden.dll
