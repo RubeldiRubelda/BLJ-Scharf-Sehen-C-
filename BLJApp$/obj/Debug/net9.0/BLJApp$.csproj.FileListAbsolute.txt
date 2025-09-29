@@ -1,0 +1,14 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\bin\Debug\net9.0\BLJApp$.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\bin\Debug\net9.0\BLJApp$.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\bin\Debug\net9.0\BLJApp$.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\bin\Debug\net9.0\BLJApp$.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\bin\Debug\net9.0\BLJApp$.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\BLJApp$.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\BLJApp$.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\BLJApp$.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\BLJApp$.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\BLJApp$.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\refint\BLJApp$.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\BLJApp$.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\BLJApp$.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\BLJApp$\obj\Debug\net9.0\ref\BLJApp$.dll
