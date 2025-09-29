@@ -15,6 +15,7 @@ namespace Addierer
             number1 = Convert.ToInt32(Console.ReadLine());
 
 
+
             Console.Write("Geben Sie die zweite Zahl ein: ");
             number2 = Convert.ToInt32(Console.ReadLine());
 

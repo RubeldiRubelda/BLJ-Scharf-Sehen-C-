@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\bin\Debug\net8.0\Aufgabe2.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\bin\Debug\net8.0\Aufgabe2.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\bin\Debug\net8.0\Aufgabe2.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\bin\Debug\net8.0\Aufgabe2.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\bin\Debug\net8.0\Aufgabe2.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\obj\Debug\net8.0\Aufgabe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\obj\Debug\net8.0\Aufgabe2.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\obj\Debug\net8.0\Aufgabe2.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\obj\Debug\net8.0\Aufgabe2.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\obj\Debug\net8.0\Aufgabe2.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\obj\Debug\net8.0\Aufgabe2.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\obj\Debug\net8.0\refint\Aufgabe2.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\obj\Debug\net8.0\Aufgabe2.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\obj\Debug\net8.0\Aufgabe2.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\Aufgabe2\obj\Debug\net8.0\ref\Aufgabe2.dll

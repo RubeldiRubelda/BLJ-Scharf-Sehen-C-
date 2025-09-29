@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BLJApp$")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a316ddac7d5611d53ad59a13349f68ad105b06a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1409d9562462db7dad9d6160ff3c7888ea439b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BLJApp$")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BLJApp$")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
