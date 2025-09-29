@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\bin\Debug\net9.0\06 Kleines 1x1.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\bin\Debug\net9.0\06 Kleines 1x1.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\bin\Debug\net9.0\06 Kleines 1x1.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\bin\Debug\net9.0\06 Kleines 1x1.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\bin\Debug\net9.0\06 Kleines 1x1.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\obj\Debug\net9.0\06 Kleines 1x1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\obj\Debug\net9.0\06 Kleines 1x1.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\obj\Debug\net9.0\06 Kleines 1x1.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\obj\Debug\net9.0\06 Kleines 1x1.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\obj\Debug\net9.0\06 Kleines 1x1.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\obj\Debug\net9.0\06 Kleines 1x1.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\obj\Debug\net9.0\refint\06 Kleines 1x1.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\obj\Debug\net9.0\06 Kleines 1x1.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\obj\Debug\net9.0\06 Kleines 1x1.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\06 Kleines 1x1\obj\Debug\net9.0\ref\06 Kleines 1x1.dll

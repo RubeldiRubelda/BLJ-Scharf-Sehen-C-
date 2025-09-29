@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05 Flussdiagramm NR2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9255a8cadf212b3b9717f73e5bb549ee2e0d053a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56822d0fa5b88155d13a4457666f2753081c99bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("05 Flussdiagramm NR2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05 Flussdiagramm NR2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

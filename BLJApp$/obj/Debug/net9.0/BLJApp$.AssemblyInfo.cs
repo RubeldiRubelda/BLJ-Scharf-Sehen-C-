@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BLJApp$")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d0e95f660ed56bb1aeadfcfadf68c72984bd28b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56822d0fa5b88155d13a4457666f2753081c99bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("BLJApp$")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BLJApp$")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
