@@ -81,15 +81,16 @@ namespace Program
             Console.WriteLine("Gebe die zu Summierende ")
 
 
-            static int[] SumUp(int[] arr) 
-                {    
-                    //Rückgabe-Array initialisieren 
-                    int[] result = new int[arr.Length]; 
-    
-                    //todo: Array "result" gemäss Aufgabenstellung mit den aufsummierten Werten füllen
-    
-                    return result;
-                }   
+
+            static int[] SumUp(int[] arr)
+            {
+                //Rückgabe-Array initialisieren 
+                int[] result = new int[arr.Length];
+
+                //todo: Array "result" gemäss Aufgabenstellung mit den aufsummierten Werten füllen
+
+                return result;
+            }   
 
 
         
