@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 Aufsummieren", "12 Aufsu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 Eine Diagonale Linie Zeichnen", "13 Eine Diagonale Linie Zeichnen\13 Eine Diagonale Linie Zeichnen.csproj", "{02271C68-5FCB-44E9-AEB5-4D43113A52D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Schaltjahr Rechner", "14 Schaltjahr Rechner\14 Schaltjahr Rechner.csproj", "{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -223,6 +225,18 @@ Global
 		{02271C68-5FCB-44E9-AEB5-4D43113A52D4}.Release|x64.Build.0 = Release|Any CPU
 		{02271C68-5FCB-44E9-AEB5-4D43113A52D4}.Release|x86.ActiveCfg = Release|Any CPU
 		{02271C68-5FCB-44E9-AEB5-4D43113A52D4}.Release|x86.Build.0 = Release|Any CPU
+		{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}.Debug|x64.Build.0 = Debug|Any CPU
+		{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}.Debug|x86.Build.0 = Debug|Any CPU
+		{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}.Release|x64.ActiveCfg = Release|Any CPU
+		{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}.Release|x64.Build.0 = Release|Any CPU
+		{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}.Release|x86.ActiveCfg = Release|Any CPU
+		{B1A5B8EC-8CE8-49A5-83EB-6E8FA44207BE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
