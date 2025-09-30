@@ -76,10 +76,11 @@ namespace Program
                                                                                                                                                                                                                                                                
                                                                                                                                                    ";
             Console.WriteLine(asciiArt);
-            
 
-            Console.WriteLine("Gebe die zu Summierende ")
 
+            Console.WriteLine("Geben Sie die zu summierenden Ganzzahllen mit Komma getrennt ein: ");
+            Console.Write("Zahlen: ");
+            Console.Read();
 
 
             static int[] SumUp(int[] arr)
