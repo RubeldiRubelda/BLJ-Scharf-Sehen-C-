@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\bin\Debug\net9.0\14 Schaltjahr Rechner.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\bin\Debug\net9.0\14 Schaltjahr Rechner.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\bin\Debug\net9.0\14 Schaltjahr Rechner.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\bin\Debug\net9.0\14 Schaltjahr Rechner.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\bin\Debug\net9.0\14 Schaltjahr Rechner.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\obj\Debug\net9.0\14 Schaltjahr Rechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\obj\Debug\net9.0\14 Schaltjahr Rechner.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\obj\Debug\net9.0\14 Schaltjahr Rechner.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\obj\Debug\net9.0\14 Schaltjahr Rechner.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\obj\Debug\net9.0\14 Schaltjahr Rechner.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\obj\Debug\net9.0\14 Schaltjahr Rechner.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\obj\Debug\net9.0\refint\14 Schaltjahr Rechner.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\obj\Debug\net9.0\14 Schaltjahr Rechner.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\obj\Debug\net9.0\14 Schaltjahr Rechner.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\14 Schaltjahr Rechner\obj\Debug\net9.0\ref\14 Schaltjahr Rechner.dll
