@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("12 Aufsummieren")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbe7b5f11c9ecf177fa98e6acb520f45e6e0f8f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d8f613b6f26237295f5cde1557fb31faf2d7daa")]
 [assembly: System.Reflection.AssemblyProductAttribute("12 Aufsummieren")]
 [assembly: System.Reflection.AssemblyTitleAttribute("12 Aufsummieren")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
