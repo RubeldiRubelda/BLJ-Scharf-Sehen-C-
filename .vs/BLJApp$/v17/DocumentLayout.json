@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E2C2A17-4C81-45DD-9A89-2528E18D8217}|11 Durch Quersumme teilbare Zahlen\\11 Durch Quersumme teilbare Zahlen.csproj|c:\\users\\benja\\documents\\_blj\\006 c# programmierung\\11 durch quersumme teilbare zahlen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2C2A17-4C81-45DD-9A89-2528E18D8217}|11 Durch Quersumme teilbare Zahlen\\11 Durch Quersumme teilbare Zahlen.csproj|solutionrelative:11 durch quersumme teilbare zahlen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{150C836D-A45B-427D-99A3-7FF3028CCAB2}|09 Eine Ganzzahl Bin\u00E4r darstellen\\09 Eine Ganzzahl Bin\u00E4r darstellen.csproj|c:\\users\\benja\\documents\\_blj\\006 c# programmierung\\09 eine ganzzahl bin\u00E4r darstellen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{150C836D-A45B-427D-99A3-7FF3028CCAB2}|09 Eine Ganzzahl Bin\u00E4r darstellen\\09 Eine Ganzzahl Bin\u00E4r darstellen.csproj|solutionrelative:09 eine ganzzahl bin\u00E4r darstellen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,6 +32,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\11 Durch Quersumme teilbare Zahlen\\Program.cs",
+              "RelativeDocumentMoniker": "11 Durch Quersumme teilbare Zahlen\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\11 Durch Quersumme teilbare Zahlen\\Program.cs",
+              "RelativeToolTip": "11 Durch Quersumme teilbare Zahlen\\Program.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAcwEEBAABwAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T08:58:35.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\09 Eine Ganzzahl Bin\u00E4r darstellen\\Program.cs",
               "RelativeDocumentMoniker": "09 Eine Ganzzahl Bin\u00E4r darstellen\\Program.cs",
               "ToolTip": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\09 Eine Ganzzahl Bin\u00E4r darstellen\\Program.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\03 Flussdiagramm\\Program.cs",
               "RelativeDocumentMoniker": "03 Flussdiagramm\\Program.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BLJApp$.csproj",
               "DocumentMoniker": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\BLJApp$\\BLJApp$.csproj",
               "RelativeDocumentMoniker": "BLJApp$\\BLJApp$.csproj",
