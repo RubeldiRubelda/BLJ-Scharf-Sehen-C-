@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\bin\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\bin\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\bin\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\bin\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\bin\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\obj\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\obj\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\obj\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\obj\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\obj\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\obj\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\obj\Debug\net9.0\refint\09 Eine Ganzzahl Binär darstellen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\obj\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\obj\Debug\net9.0\09 Eine Ganzzahl Binär darstellen.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\09 Eine Ganzzahl Binär darstellen\obj\Debug\net9.0\ref\09 Eine Ganzzahl Binär darstellen.dll
