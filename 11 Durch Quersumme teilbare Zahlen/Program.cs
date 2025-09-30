@@ -392,9 +392,9 @@ namespace Program
                     Console.WriteLine("Ungültige Eingabe für 2. Bitte gib eine Ganzzahl ein oder Q zum Beenden.");
                     continue;
                 }
-                /// HIER DER CODE ZUM QUERSUMME TEILBARE ZAHLEN ZEUG MACHEN 
+                /// HIER DER CODE ZUM QUERSUMME TEILBARE ZAHLEN ZEUG MACHEN //
                 
-
+                
             }
 
 
