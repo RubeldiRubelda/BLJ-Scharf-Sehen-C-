@@ -13,6 +13,7 @@ namespace Program
     {
         static void Main(string[] args)
         {
+            string input;
             string asciiArt = @"         
                                                                                                                                                                                                                                                                                                                                                                                                                                       
                                                                                                                                                                                                                                                                                                                                                                                                               
@@ -80,21 +81,36 @@ namespace Program
 
             Console.WriteLine("Geben Sie die zu summierenden Ganzzahllen mit Komma getrennt ein: ");
             Console.Write("Zahlen: ");
-            Console.Read();
+            input = Console.ReadLine();
+
+            int[] inputArray = input.Split(',').Select(int.Parse).ToArray();
+
+            Console.WriteLine("\nResultat:");
 
 
-            static int[] SumUp(int[] arr)
+            for (int i = 0; i < inputArray.Length; i++)
             {
-                //Rückgabe-Array initialisieren 
-                int[] result = new int[arr.Length];
+                Console.Write($"[{i}] -> {SumUp(inputArray)[i]}");
+                
+                if (i != inputArray.Length-1)
+                {
+                    Console.Write(", ");
+                }
+            }
 
-                //todo: Array "result" gemäss Aufgabenstellung mit den aufsummierten Werten füllen
+            Console.ReadKey();
+        }
 
-                return result;
-            }   
+        static int[] SumUp(int[] arr)
+        {
+            int[] result = (int[])arr.Clone();
 
+            for (int i = 1; i < arr.Length; i++)
+            {
+                result[i] += result[i - 1];
+            }
 
-        
+            return result;
         }
     }
 }
