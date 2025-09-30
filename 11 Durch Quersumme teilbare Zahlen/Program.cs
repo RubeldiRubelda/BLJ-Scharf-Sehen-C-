@@ -359,6 +359,29 @@ namespace Program
 
 
 
+            while (true)
+            {
+                Console.WriteLine("Gib eine Ganzzahl ein (oder Q zum Beenden):");
+                string input = Console.ReadLine();
+
+                Console.WriteLine("Gib eine Ganzzahl ein (oder Q zum Beenden):");
+                string input2 = Console.ReadLine();
+                if (input.Trim().ToUpper() == "Q")
+                {
+                    Console.WriteLine("Auf Wiedersehen und Au revoir!");
+                    break;
+                }
+                int number;
+                if (!int.TryParse(input, out number))
+                {
+                    Console.WriteLine("Ungültige Eingabe. Bitte gib eine Ganzzahl ein oder Q zum Beenden.");
+                    continue;
+                }
+
+                /// HIER DER CODE ZUM QUERSUMME TEILBARE ZAHLEN ZEUG MACHEN 
+
+
+            }
 
 
 
