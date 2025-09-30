@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09 Eine Ganzzahl Binär darstellen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e14703fa6bd72df2b77b08f8dbce7e15d78b076c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94829a1fa957e048ea03d6f69b1aeb42d1018ae4")]
 [assembly: System.Reflection.AssemblyProductAttribute("09 Eine Ganzzahl Binär darstellen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09 Eine Ganzzahl Binär darstellen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
