@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\bin\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\bin\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\bin\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\bin\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\bin\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\obj\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\obj\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\obj\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\obj\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\obj\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\obj\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\obj\Debug\net9.0\refint\11 Durch Quersumme teilbare Zahlen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\obj\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\obj\Debug\net9.0\11 Durch Quersumme teilbare Zahlen.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\11 Durch Quersumme teilbare Zahlen\obj\Debug\net9.0\ref\11 Durch Quersumme teilbare Zahlen.dll

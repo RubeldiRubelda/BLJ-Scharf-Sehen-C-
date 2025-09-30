@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 Eine Ganzzahl Binär dar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 Quersumme Berechnen", "10 Quersumme Berechnen\10 Quersumme Berechnen.csproj", "{EFAE2A63-DC68-41D3-BED2-0F926E81EBE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 Durch Quersumme teilbare Zahlen", "11 Durch Quersumme teilbare Zahlen\11 Durch Quersumme teilbare Zahlen.csproj", "{6E2C2A17-4C81-45DD-9A89-2528E18D8217}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,18 @@ Global
 		{EFAE2A63-DC68-41D3-BED2-0F926E81EBE1}.Release|x64.Build.0 = Release|Any CPU
 		{EFAE2A63-DC68-41D3-BED2-0F926E81EBE1}.Release|x86.ActiveCfg = Release|Any CPU
 		{EFAE2A63-DC68-41D3-BED2-0F926E81EBE1}.Release|x86.Build.0 = Release|Any CPU
+		{6E2C2A17-4C81-45DD-9A89-2528E18D8217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2C2A17-4C81-45DD-9A89-2528E18D8217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2C2A17-4C81-45DD-9A89-2528E18D8217}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6E2C2A17-4C81-45DD-9A89-2528E18D8217}.Debug|x64.Build.0 = Debug|Any CPU
+		{6E2C2A17-4C81-45DD-9A89-2528E18D8217}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6E2C2A17-4C81-45DD-9A89-2528E18D8217}.Debug|x86.Build.0 = Debug|Any CPU
+		{6E2C2A17-4C81-45DD-9A89-2528E18D8217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2C2A17-4C81-45DD-9A89-2528E18D8217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2C2A17-4C81-45DD-9A89-2528E18D8217}.Release|x64.ActiveCfg = Release|Any CPU
+		{6E2C2A17-4C81-45DD-9A89-2528E18D8217}.Release|x64.Build.0 = Release|Any CPU
+		{6E2C2A17-4C81-45DD-9A89-2528E18D8217}.Release|x86.ActiveCfg = Release|Any CPU
+		{6E2C2A17-4C81-45DD-9A89-2528E18D8217}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

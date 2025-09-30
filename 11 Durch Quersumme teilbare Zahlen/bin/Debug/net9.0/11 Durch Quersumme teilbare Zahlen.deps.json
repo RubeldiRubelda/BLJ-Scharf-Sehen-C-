@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "11 Durch Quersumme teilbare Zahlen/1.0.0": {
+        "runtime": {
+          "11 Durch Quersumme teilbare Zahlen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11 Durch Quersumme teilbare Zahlen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
