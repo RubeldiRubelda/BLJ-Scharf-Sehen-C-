@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "10 Quersumme Berechnen/1.0.0": {
+        "runtime": {
+          "10 Quersumme Berechnen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10 Quersumme Berechnen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

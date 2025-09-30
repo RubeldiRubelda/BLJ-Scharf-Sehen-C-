@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\bin\Debug\net9.0\10 Quersumme Berechnen.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\bin\Debug\net9.0\10 Quersumme Berechnen.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\bin\Debug\net9.0\10 Quersumme Berechnen.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\bin\Debug\net9.0\10 Quersumme Berechnen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\bin\Debug\net9.0\10 Quersumme Berechnen.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\obj\Debug\net9.0\10 Quersumme Berechnen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\obj\Debug\net9.0\10 Quersumme Berechnen.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\obj\Debug\net9.0\10 Quersumme Berechnen.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\obj\Debug\net9.0\10 Quersumme Berechnen.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\obj\Debug\net9.0\10 Quersumme Berechnen.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\obj\Debug\net9.0\10 Quersumme Berechnen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\obj\Debug\net9.0\refint\10 Quersumme Berechnen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\obj\Debug\net9.0\10 Quersumme Berechnen.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\obj\Debug\net9.0\10 Quersumme Berechnen.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\10 Quersumme Berechnen\obj\Debug\net9.0\ref\10 Quersumme Berechnen.dll
