@@ -358,44 +358,45 @@ namespace Program
 
 
 
+            string input;
+            int Number1;
+            int Number2;
 
-            while (true)
+            do
             {
-                Console.WriteLine("Gib eine Ganzzahl ein (oder Q zum Beenden):");
-                string input1 = Console.ReadLine();
+                Console.Write("Zahl 1: ");
+                input = Console.ReadLine();
+            } while (int.TryParse(input, out Number1) == false);
 
-                Console.WriteLine("Gib eine Ganzzahl ein (oder Q zum Beenden):");
-                string input2 = Console.ReadLine();
+            do
+            {
+                Console.Write("Zahl 2: ");
+                input = Console.ReadLine();
+            } while (int.TryParse(input, out Number2) == false || Number2-Number1 <= 0);
 
-                // RAGEQUIT SYSTEM //
-                if (input1.Trim().ToUpper() == "Q") // Abfrage 1
-                {
-                    Console.WriteLine("Auf Wiedersehen und Au revoir!");
-                    break;
-                }
-                 if (input2.Trim().ToUpper() == "Q") // Abfrage auch bei nr 2
-                {
-                    Console.WriteLine("Auf Wiedersehen und Au revoir!");
-                    break;
-                }
-                ////////////////////////////////////////////////////////////////////////
+            Console.Write("\n");
 
-                int number1;
-                if (!int.TryParse(input1, out number1))
+            Console.WriteLine($"================================================\n| {"Zahl".PadRight(4)} | {"Quersumme".PadRight(4)} | Zahl ÷ Quersumme\n================================================");
+            for (int i = 0; i <= Number2 - Number1; i++)
+            {
+                if ((Number1 + i) % BerechneQuersumme(Number1 + i) == 0)
                 {
-                    Console.WriteLine("Ungültige Eingabe für 1. Bitte gib eine Ganzzahl ein oder Q zum Beenden.");
-                    continue;
+                    Console.WriteLine($"| {(Number1 + i).ToString().PadRight(4)} | {BerechneQuersumme(Number1 + i).ToString().PadRight(9)} | {(Number1 + i) / (double)BerechneQuersumme(Number1+i)}");
                 }
-                int number2;
-                if (!int.TryParse(input2, out number2))
-                {
-                    Console.WriteLine("Ungültige Eingabe für 2. Bitte gib eine Ganzzahl ein oder Q zum Beenden.");
-                    continue;
-                }
-                /// HIER DER CODE ZUM QUERSUMME TEILBARE ZAHLEN ZEUG MACHEN //
-                
-                
             }
+            Console.ReadKey();
+        }
+        static int BerechneQuersumme(int zahl)
+        {
+            int sum = 0;
+
+            while (zahl != 0)
+            {
+                sum = sum + (zahl % 10);
+                zahl /= 10;
+            }
+
+            return sum;
 
 
 
