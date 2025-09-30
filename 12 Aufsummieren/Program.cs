@@ -78,7 +78,7 @@ namespace Program
             Console.WriteLine(asciiArt);
             
 
-
+            Console.WriteLine("Gebe die zu Summierende ")
 
 
             static int[] SumUp(int[] arr) 
