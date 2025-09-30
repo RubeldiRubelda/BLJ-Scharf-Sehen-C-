@@ -362,24 +362,38 @@ namespace Program
             while (true)
             {
                 Console.WriteLine("Gib eine Ganzzahl ein (oder Q zum Beenden):");
-                string input = Console.ReadLine();
+                string input1 = Console.ReadLine();
 
                 Console.WriteLine("Gib eine Ganzzahl ein (oder Q zum Beenden):");
                 string input2 = Console.ReadLine();
-                if (input.Trim().ToUpper() == "Q")
+
+                // RAGEQUIT SYSTEM //
+                if (input1.Trim().ToUpper() == "Q") // Abfrage 1
                 {
                     Console.WriteLine("Auf Wiedersehen und Au revoir!");
                     break;
                 }
-                int number;
-                if (!int.TryParse(input, out number))
+                 if (input2.Trim().ToUpper() == "Q") // Abfrage auch bei nr 2
                 {
-                    Console.WriteLine("Ungültige Eingabe. Bitte gib eine Ganzzahl ein oder Q zum Beenden.");
+                    Console.WriteLine("Auf Wiedersehen und Au revoir!");
+                    break;
+                }
+                ////////////////////////////////////////////////////////////////////////
+
+                int number1;
+                if (!int.TryParse(input1, out number1))
+                {
+                    Console.WriteLine("Ungültige Eingabe für 1. Bitte gib eine Ganzzahl ein oder Q zum Beenden.");
                     continue;
                 }
-
+                int number2;
+                if (!int.TryParse(input2, out number2))
+                {
+                    Console.WriteLine("Ungültige Eingabe für 2. Bitte gib eine Ganzzahl ein oder Q zum Beenden.");
+                    continue;
+                }
                 /// HIER DER CODE ZUM QUERSUMME TEILBARE ZAHLEN ZEUG MACHEN 
-
+                
 
             }
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11 Durch Quersumme teilbare Zahlen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+729b5ab954ea0d141500086903fc6be70e2016b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+010fd8fdd7e31050b6f54f719417a73bb147fb4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("11 Durch Quersumme teilbare Zahlen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11 Durch Quersumme teilbare Zahlen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
