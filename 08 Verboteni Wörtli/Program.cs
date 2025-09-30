@@ -12,13 +12,28 @@ namespace Program
             Console.WriteLine("Anti Ragequit Simulator 3000! Google Maps Edition!");
             Console.WriteLine("==================================================");
             Console.WriteLine("");
+Console.WriteLine("____ ____ _  _ ____    ____ ____ ____ _    ____ ____    ____ ____ _  _ ____   /");
+Console.WriteLine("[__  |___ |__| |__/    |    |  | |  | |    |___ [__     | __ |__| |\\/| |___  / ");
+Console.WriteLine("___] |___ |  | |  \\    |___ |__| |__| |___ |___ ___]    |__] |  | |  | |___ .  ");
+                                                                               
+            Console.WriteLine("");
+            Console.WriteLine("Bitte ein Review schreiben:");
 
-
-for(int i = 0; i < forbiddenWords.Length; i++)
-{
-    // TODO: Prüfen, ob das Wort, das an der Position i im Array steht, 
-    // im Kommentar vorkommt.
-}
+            string review = Console.ReadLine();
+            bool forbiddenFound = false;
+            for (int i = 0; i < forbiddenWords.Length; i++)
+            {
+                if (review.ToLower().Contains(forbiddenWords[i].ToLower()))
+                {
+                    Console.WriteLine("Dein Review enthält verbotene Wörter. Bitte ändere dein Review.");
+                    forbiddenFound = true;
+                    break;
+                }
+            }
+            if (!forbiddenFound)
+            {
+                Console.WriteLine("Danke für dein Review!");
+            }
         }
     }
 }
