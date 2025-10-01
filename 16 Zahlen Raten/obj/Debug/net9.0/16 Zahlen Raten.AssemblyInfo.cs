@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("16 Zahlen Raten")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9905b56d2f5a732513f6e7333fa424744784edef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70db42a4aa41c77752cf3218fda5abfb19fbf197")]
 [assembly: System.Reflection.AssemblyProductAttribute("16 Zahlen Raten")]
 [assembly: System.Reflection.AssemblyTitleAttribute("16 Zahlen Raten")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
