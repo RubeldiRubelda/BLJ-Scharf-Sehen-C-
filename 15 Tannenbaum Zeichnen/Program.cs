@@ -186,6 +186,7 @@ namespace Program
                         Console.Write(" ");
                     }
                     Console.WriteLine("\x1b[38;5;136m***");
+                    Console.WriteLine("\x1b[30m	");
                 }
             }
         }
