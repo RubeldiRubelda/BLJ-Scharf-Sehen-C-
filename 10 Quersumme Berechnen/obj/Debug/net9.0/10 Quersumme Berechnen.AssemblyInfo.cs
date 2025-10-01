@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10 Quersumme Berechnen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0f75f10730d6cfdd98678d4f973f9007b3e131b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+747bc65397acebc02a738183d8539e10c4fda3f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("10 Quersumme Berechnen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10 Quersumme Berechnen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
