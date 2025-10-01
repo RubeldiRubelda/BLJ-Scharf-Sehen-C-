@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\bin\Debug\net9.0\15 Tannenbaum Zeichnen.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\bin\Debug\net9.0\15 Tannenbaum Zeichnen.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\bin\Debug\net9.0\15 Tannenbaum Zeichnen.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\bin\Debug\net9.0\15 Tannenbaum Zeichnen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\bin\Debug\net9.0\15 Tannenbaum Zeichnen.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\obj\Debug\net9.0\15 Tannenbaum Zeichnen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\obj\Debug\net9.0\15 Tannenbaum Zeichnen.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\obj\Debug\net9.0\15 Tannenbaum Zeichnen.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\obj\Debug\net9.0\15 Tannenbaum Zeichnen.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\obj\Debug\net9.0\15 Tannenbaum Zeichnen.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\obj\Debug\net9.0\15 Tannenbaum Zeichnen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\obj\Debug\net9.0\refint\15 Tannenbaum Zeichnen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\obj\Debug\net9.0\15 Tannenbaum Zeichnen.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\obj\Debug\net9.0\15 Tannenbaum Zeichnen.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\15 Tannenbaum Zeichnen\obj\Debug\net9.0\ref\15 Tannenbaum Zeichnen.dll
