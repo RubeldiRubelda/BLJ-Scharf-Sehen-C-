@@ -154,12 +154,14 @@ namespace Program
             {
                 Console.Write("Gib eine Zahl ein (z.B. 5): ");
                 string input = Console.ReadLine();
+
                 if (int.TryParse(input, out height) && height > 0)
                 {
                     break;
                 }
                 Console.WriteLine("Ungültige Eingabe. Bitte gib eine positive ganze Zahl ein.");
             }
+            BaumZeichnen(height);
             
             static void BaumZeichnen(int height){
                 for (int i = 0; i < height; i++)
