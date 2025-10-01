@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\bin\Debug\net9.0\17 Alter berechnen.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\bin\Debug\net9.0\17 Alter berechnen.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\bin\Debug\net9.0\17 Alter berechnen.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\bin\Debug\net9.0\17 Alter berechnen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\bin\Debug\net9.0\17 Alter berechnen.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\obj\Debug\net9.0\17 Alter berechnen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\obj\Debug\net9.0\17 Alter berechnen.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\obj\Debug\net9.0\17 Alter berechnen.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\obj\Debug\net9.0\17 Alter berechnen.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\obj\Debug\net9.0\17 Alter berechnen.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\obj\Debug\net9.0\17 Alter berechnen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\obj\Debug\net9.0\refint\17 Alter berechnen.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\obj\Debug\net9.0\17 Alter berechnen.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\obj\Debug\net9.0\17 Alter berechnen.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\17 Alter berechnen\obj\Debug\net9.0\ref\17 Alter berechnen.dll
