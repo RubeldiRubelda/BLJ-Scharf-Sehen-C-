@@ -36,6 +36,29 @@ namespace Program
             }
             Console.WriteLine("==============================================");
 
+            Console.WriteLine("Und jetzt noch alleinstellig in Tagen:");
+            if (erfolgreich)
+            {
+                DateTime heute = DateTime.Now;
+                TimeSpan differenz = heute - geburtstag;
+                Console.WriteLine("Du bist " + differenz.TotalDays + " Tage alt.");
+            }
+            else
+            {
+                Console.WriteLine("Das Datum ist ungültig.");
+            }
+            if (erfolgreich)
+            {
+                DateTime heute = DateTime.Now;
+                TimeSpan differenz = heute - geburtstag;
+                Console.WriteLine("Du bist " + differenz.TotalSeconds + " Sekunden alt.");
+            }
+            else
+            {
+                Console.WriteLine("Das Datum ist ungültig.");
+            }
+            Console.WriteLine("==============================================");
+            Console.WriteLine("Drücke eine beliebige Taste zum Beenden.");
         }
     }
 }
