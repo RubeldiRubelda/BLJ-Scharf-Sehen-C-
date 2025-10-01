@@ -174,7 +174,7 @@ namespace Program
                     // Sterne
                     for (int k = 0; k < (2 * i + 1); k++)
                     {
-                        Console.Write("*");
+                        Console.Write("\x1b[38;2;185;213;75m*");
                     }
                     Console.WriteLine();
                 }
@@ -185,7 +185,7 @@ namespace Program
                     {
                         Console.Write(" ");
                     }
-                    Console.WriteLine("***");
+                    Console.WriteLine("\x1b[38;5;136m***");
                 }
             }
         }
