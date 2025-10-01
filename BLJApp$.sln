@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Schaltjahr Rechner", "14
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 Tannenbaum Zeichnen", "15 Tannenbaum Zeichnen\15 Tannenbaum Zeichnen.csproj", "{0B4550B4-DDD2-43FE-9958-D3A9F1AA6900}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 Zahlen Raten", "16 Zahlen Raten\16 Zahlen Raten.csproj", "{1115913A-ED51-45E1-8ACF-26F18D951240}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -251,6 +253,18 @@ Global
 		{0B4550B4-DDD2-43FE-9958-D3A9F1AA6900}.Release|x64.Build.0 = Release|Any CPU
 		{0B4550B4-DDD2-43FE-9958-D3A9F1AA6900}.Release|x86.ActiveCfg = Release|Any CPU
 		{0B4550B4-DDD2-43FE-9958-D3A9F1AA6900}.Release|x86.Build.0 = Release|Any CPU
+		{1115913A-ED51-45E1-8ACF-26F18D951240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1115913A-ED51-45E1-8ACF-26F18D951240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1115913A-ED51-45E1-8ACF-26F18D951240}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1115913A-ED51-45E1-8ACF-26F18D951240}.Debug|x64.Build.0 = Debug|Any CPU
+		{1115913A-ED51-45E1-8ACF-26F18D951240}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1115913A-ED51-45E1-8ACF-26F18D951240}.Debug|x86.Build.0 = Debug|Any CPU
+		{1115913A-ED51-45E1-8ACF-26F18D951240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1115913A-ED51-45E1-8ACF-26F18D951240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1115913A-ED51-45E1-8ACF-26F18D951240}.Release|x64.ActiveCfg = Release|Any CPU
+		{1115913A-ED51-45E1-8ACF-26F18D951240}.Release|x64.Build.0 = Release|Any CPU
+		{1115913A-ED51-45E1-8ACF-26F18D951240}.Release|x86.ActiveCfg = Release|Any CPU
+		{1115913A-ED51-45E1-8ACF-26F18D951240}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
