@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("14 Schaltjahr Rechner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9905b56d2f5a732513f6e7333fa424744784edef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a1e66a1a08b40d538b2a6f2e01f29268693266d")]
 [assembly: System.Reflection.AssemblyProductAttribute("14 Schaltjahr Rechner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("14 Schaltjahr Rechner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,3 +13,7 @@ C:\Users\benja\Documents\_BLJ\006 C# Programmierung\16 Zahlen Raten\obj\Debug\ne
 C:\Users\benja\Documents\_BLJ\006 C# Programmierung\16 Zahlen Raten\obj\Debug\net9.0\16 Zahlen Raten.pdb
 C:\Users\benja\Documents\_BLJ\006 C# Programmierung\16 Zahlen Raten\obj\Debug\net9.0\16 Zahlen Raten.genruntimeconfig.cache
 C:\Users\benja\Documents\_BLJ\006 C# Programmierung\16 Zahlen Raten\obj\Debug\net9.0\ref\16 Zahlen Raten.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\16 Zahlen Raten\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\16 Zahlen Raten\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\16 Zahlen Raten\obj\Debug\net9.0\16 Zahlen Raten.csproj.AssemblyReference.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\16 Zahlen Raten\obj\Debug\net9.0\16 Zahle.3A92E064.Up2Date

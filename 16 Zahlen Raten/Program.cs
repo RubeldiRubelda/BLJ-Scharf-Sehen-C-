@@ -1,15 +1,15 @@
 ﻿using System;
+using System.Media;
 namespace Program
 {
     internal class Program
     {
-    
+
         static void Main(string[] args)
         {
 
 
-
-           string asciiArt = @"                                                                                                                                                                                                                                                                                                                                                                                                                       
+            string asciiArt = @"                                                                                                                                                                                                                                                                                                                                                                                                                       
                                                                                                                                                                                                                                                                                                                                                                                                                 
    
                   .........              ...:::::...                      ...::::....                            ..........      
@@ -84,6 +84,10 @@ namespace Program
                 }
             }
 
+
+
+
+
             while (true)
             {
                 Console.WriteLine("Geben Sie eine Zahl ein:");
@@ -97,6 +101,8 @@ namespace Program
                 if (number == randomNumber)
                 {
                     Console.WriteLine("Glückwunsch! Sie haben die richtige Zahl erraten!");
+                    PlayMusic("omgwow.wav");
+
                     nochmalSpielen();
                 }
                 else if (number < randomNumber)
@@ -107,8 +113,14 @@ namespace Program
                 {
                     Console.WriteLine("Die Zahl ist zu gross.");
                 }
-            }
 
+            }
+        }
+        public static void PlayMusic(string filepath)
+        {
+            SoundPlayer musicPlayer = new SoundPlayer();
+            musicPlayer.SoundLocation = filepath;
+            musicPlayer.Play();
         }
     }
 }

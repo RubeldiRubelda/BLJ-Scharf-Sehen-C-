@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("13 Eine Diagonale Linie Zeichnen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+747bc65397acebc02a738183d8539e10c4fda3f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a1e66a1a08b40d538b2a6f2e01f29268693266d")]
 [assembly: System.Reflection.AssemblyProductAttribute("13 Eine Diagonale Linie Zeichnen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("13 Eine Diagonale Linie Zeichnen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
