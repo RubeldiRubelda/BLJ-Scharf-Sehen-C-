@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("15 Tannenbaum Zeichnen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7977f001b3376ed232cfc51db11a45c2f55f9220")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d0d2083264dbecdeee46df1fd56b4f8dbe56f30")]
 [assembly: System.Reflection.AssemblyProductAttribute("15 Tannenbaum Zeichnen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("15 Tannenbaum Zeichnen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

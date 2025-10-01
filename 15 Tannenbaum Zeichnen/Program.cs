@@ -149,7 +149,7 @@ namespace Program
             Console.WriteLine("\n\n\n\n\n\n\n\n\n");
 
             Console.WriteLine("Willkommen auf dem Weihnachtsmarkt! Wie Gross soll der Baum sein?");
-            int height; 
+            int height;
             while (true)
             {
                 Console.Write("Gib eine Zahl ein (z.B. 5): ");
@@ -159,6 +159,32 @@ namespace Program
                     break;
                 }
                 Console.WriteLine("Ungültige Eingabe. Bitte gib eine positive ganze Zahl ein.");
+            }
+            
+            static void BaumZeichnen(int height){
+                for (int i = 0; i < height; i++)
+                {
+                    // Leerzeichen vor dem Stern
+                    for (int j = 0; j < height - i - 1; j++)
+                    {
+                        Console.Write(" ");
+                    }
+                    // Sterne
+                    for (int k = 0; k < (2 * i + 1); k++)
+                    {
+                        Console.Write("*");
+                    }
+                    Console.WriteLine();
+                }
+                // Baumstamm zeichnen
+                for (int i = 0; i < height / 3; i++)
+                {
+                    for (int j = 0; j < height - 1; j++)
+                    {
+                        Console.Write(" ");
+                    }
+                    Console.WriteLine("***");
+                }
             }
         }
     }
