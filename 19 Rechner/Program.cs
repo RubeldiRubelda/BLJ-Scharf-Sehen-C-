@@ -80,19 +80,40 @@ namespace Program
             {
                 Console.WriteLine("Geben Sie eine Rechenaufgabe ein (z.B. 5 + 3):");
                 string input = Console.ReadLine();
-                string[] parts = input.Split(' ');
-                if (parts.Length != 3)
+                input = input.Replace(" ", ""); // entfernt alle Leerzeichen
+
+                // Operator suchen (+, -, *, /)
+                string[] ops = { "+", "-", "*", "/" };
+                string op = null;
+                foreach (var o in ops)
                 {
-                    Console.WriteLine("Ungültige Eingabe. Bitte im Format 'Zahl Operator Zahl' eingeben.");
+                    if (input.Contains(o))
+                    {
+                        op = o;
+                        break;
+                    }
+                }
+                if (op == null)
+                {
+                    Console.WriteLine("Kein gültiger Operator gefunden. Bitte +, -, * oder / verwenden.");
+                    return;
+                }
+                string[] parts = input.Split(op);
+                if (parts.Length != 2)
+                {
+                    Console.WriteLine("Ungültiges Format. Bitte z.B. 5+3 eingeben.");
                     return;
                 }
 
-                if (!double.TryParse(parts[0], out double num1) || !double.TryParse(parts[2], out double num2))
+
+
+
+
+                if (!double.TryParse(parts[0], out double num1) || !double.TryParse(parts[1], out double num2))
                 {
                     Console.WriteLine("Ungültige Zahlen. Bitte gültige Zahlen eingeben.");
                     return;
                 }
-                string op = parts[1];
                 double result = 0;
                 switch (op)
                 {
@@ -113,9 +134,6 @@ namespace Program
                         }
                         result = num1 / num2;
                         break;
-                    default:
-                        Console.WriteLine("Ungültiger Operator. Bitte +, -, * oder / verwenden.");
-                        return;
                 }
                 Console.WriteLine($"Ergebnis: {result}");
 
