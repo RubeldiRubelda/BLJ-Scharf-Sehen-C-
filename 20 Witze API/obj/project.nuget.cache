@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qfVfmMYLOO4=",
+  "dgSpecHash": "LtjuKx7fxLU=",
   "success": true,
   "projectFilePath": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\20 Witze API\\20 Witze API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\benja\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

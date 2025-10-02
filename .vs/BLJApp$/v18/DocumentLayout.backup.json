@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DA46F7-2110-4F1B-AAF1-07FCCAF4392F}|20 Witze API\\20 Witze API.csproj|c:\\users\\benja\\documents\\_blj\\006 c# programmierung\\20 witze api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DA46F7-2110-4F1B-AAF1-07FCCAF4392F}|20 Witze API\\20 Witze API.csproj|solutionrelative:20 witze api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115913A-ED51-45E1-8ACF-26F18D951240}|16 Zahlen Raten\\16 Zahlen Raten.csproj|c:\\users\\benja\\documents\\_blj\\006 c# programmierung\\16 zahlen raten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115913A-ED51-45E1-8ACF-26F18D951240}|16 Zahlen Raten\\16 Zahlen Raten.csproj|solutionrelative:16 zahlen raten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136DFA81-6912-44FD-8750-2CB784A27FDD}|19 Rechner\\19 Rechner.csproj|c:\\users\\benja\\documents\\_blj\\006 c# programmierung\\19 rechner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136DFA81-6912-44FD-8750-2CB784A27FDD}|19 Rechner\\19 Rechner.csproj|solutionrelative:19 rechner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D50183B-DCCF-4097-B767-88813FBCF801}|17 Alter berechnen\\17 Alter berechnen.csproj|c:\\users\\benja\\documents\\_blj\\006 c# programmierung\\17 alter berechnen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D50183B-DCCF-4097-B767-88813FBCF801}|17 Alter berechnen\\17 Alter berechnen.csproj|solutionrelative:17 alter berechnen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150C836D-A45B-427D-99A3-7FF3028CCAB2}|09 Eine Ganzzahl Bin\u00E4r darstellen\\09 Eine Ganzzahl Bin\u00E4r darstellen.csproj|c:\\users\\benja\\documents\\_blj\\006 c# programmierung\\09 eine ganzzahl bin\u00E4r darstellen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150C836D-A45B-427D-99A3-7FF3028CCAB2}|09 Eine Ganzzahl Bin\u00E4r darstellen\\09 Eine Ganzzahl Bin\u00E4r darstellen.csproj|solutionrelative:09 eine ganzzahl bin\u00E4r darstellen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}|03 Flussdiagramm\\03 Flussdiagramm.csproj|c:\\users\\benja\\documents\\_blj\\006 c# programmierung\\03 flussdiagramm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B1F2E-AB0B-44DD-BB67-C8B89678882C}|03 Flussdiagramm\\03 Flussdiagramm.csproj|solutionrelative:03 flussdiagramm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2C2A17-4C81-45DD-9A89-2528E18D8217}|11 Durch Quersumme teilbare Zahlen\\11 Durch Quersumme teilbare Zahlen.csproj|c:\\users\\benja\\documents\\_blj\\006 c# programmierung\\11 durch quersumme teilbare zahlen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2C2A17-4C81-45DD-9A89-2528E18D8217}|11 Durch Quersumme teilbare Zahlen\\11 Durch Quersumme teilbare Zahlen.csproj|solutionrelative:11 durch quersumme teilbare zahlen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D28F99C-D85B-4459-A0D3-DD4130DAA41F}|BLJApp$\\BLJApp$.csproj|c:\\users\\benja\\documents\\_blj\\006 c# programmierung\\bljapp$\\bljapp$.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D28F99C-D85B-4459-A0D3-DD4130DAA41F}|BLJApp$\\BLJApp$.csproj|solutionrelative:bljapp$\\bljapp$.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\17 Alter berechnen\\Program.cs",
+              "RelativeDocumentMoniker": "17 Alter berechnen\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\17 Alter berechnen\\Program.cs",
+              "RelativeToolTip": "17 Alter berechnen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:55:42.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\19 Rechner\\Program.cs",
+              "RelativeDocumentMoniker": "19 Rechner\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\19 Rechner\\Program.cs",
+              "RelativeToolTip": "19 Rechner\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:55:08.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\20 Witze API\\Program.cs",
+              "RelativeDocumentMoniker": "20 Witze API\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\20 Witze API\\Program.cs*",
+              "RelativeToolTip": "20 Witze API\\Program.cs*",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAmwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:48:37.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\16 Zahlen Raten\\Program.cs",
+              "RelativeDocumentMoniker": "16 Zahlen Raten\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\16 Zahlen Raten\\Program.cs",
+              "RelativeToolTip": "16 Zahlen Raten\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAHYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T10:12:28.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\11 Durch Quersumme teilbare Zahlen\\Program.cs",
+              "RelativeDocumentMoniker": "11 Durch Quersumme teilbare Zahlen\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\11 Durch Quersumme teilbare Zahlen\\Program.cs",
+              "RelativeToolTip": "11 Durch Quersumme teilbare Zahlen\\Program.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAcwEEBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T08:58:35.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\09 Eine Ganzzahl Bin\u00E4r darstellen\\Program.cs",
+              "RelativeDocumentMoniker": "09 Eine Ganzzahl Bin\u00E4r darstellen\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\09 Eine Ganzzahl Bin\u00E4r darstellen\\Program.cs",
+              "RelativeToolTip": "09 Eine Ganzzahl Bin\u00E4r darstellen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:41:15.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\03 Flussdiagramm\\Program.cs",
+              "RelativeDocumentMoniker": "03 Flussdiagramm\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\03 Flussdiagramm\\Program.cs",
+              "RelativeToolTip": "03 Flussdiagramm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:18:17.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BLJApp$.csproj",
+              "DocumentMoniker": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\BLJApp$\\BLJApp$.csproj",
+              "RelativeDocumentMoniker": "BLJApp$\\BLJApp$.csproj",
+              "ToolTip": "C:\\Users\\benja\\Documents\\_BLJ\\006 C# Programmierung\\BLJApp$\\BLJApp$.csproj",
+              "RelativeToolTip": "BLJApp$\\BLJApp$.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T07:37:13.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

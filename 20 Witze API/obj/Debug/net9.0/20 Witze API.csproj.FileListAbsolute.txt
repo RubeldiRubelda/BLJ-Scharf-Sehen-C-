@@ -1,0 +1,18 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\obj\Debug\net9.0\20 Witze API.csproj.AssemblyReference.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\obj\Debug\net9.0\20 Witze API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\obj\Debug\net9.0\20 Witze API.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\obj\Debug\net9.0\20 Witze API.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\obj\Debug\net9.0\20 Witze API.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\obj\Debug\net9.0\20 Witze API.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\bin\Debug\net9.0\20 Witze API.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\bin\Debug\net9.0\20 Witze API.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\bin\Debug\net9.0\20 Witze API.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\bin\Debug\net9.0\20 Witze API.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\bin\Debug\net9.0\20 Witze API.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\obj\Debug\net9.0\20 Witze.61757F4C.Up2Date
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\obj\Debug\net9.0\20 Witze API.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\obj\Debug\net9.0\refint\20 Witze API.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\obj\Debug\net9.0\20 Witze API.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\obj\Debug\net9.0\20 Witze API.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\20 Witze API\obj\Debug\net9.0\ref\20 Witze API.dll
