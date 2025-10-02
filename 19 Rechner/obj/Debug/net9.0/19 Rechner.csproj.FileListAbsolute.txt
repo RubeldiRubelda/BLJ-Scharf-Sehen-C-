@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\bin\Debug\net9.0\19 Rechner.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\bin\Debug\net9.0\19 Rechner.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\bin\Debug\net9.0\19 Rechner.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\bin\Debug\net9.0\19 Rechner.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\bin\Debug\net9.0\19 Rechner.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\obj\Debug\net9.0\19 Rechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\obj\Debug\net9.0\19 Rechner.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\obj\Debug\net9.0\19 Rechner.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\obj\Debug\net9.0\19 Rechner.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\obj\Debug\net9.0\19 Rechner.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\obj\Debug\net9.0\19 Rechner.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\obj\Debug\net9.0\refint\19 Rechner.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\obj\Debug\net9.0\19 Rechner.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\obj\Debug\net9.0\19 Rechner.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\19 Rechner\obj\Debug\net9.0\ref\19 Rechner.dll
