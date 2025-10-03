@@ -1,0 +1,15 @@
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\bin\Debug\net10.0\99 Kür 🔥Waldbrand.exe
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\bin\Debug\net10.0\99 Kür 🔥Waldbrand.deps.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\bin\Debug\net10.0\99 Kür 🔥Waldbrand.runtimeconfig.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\bin\Debug\net10.0\99 Kür 🔥Waldbrand.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\bin\Debug\net10.0\99 Kür 🔥Waldbrand.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\obj\Debug\net10.0\99 Kür 🔥Waldbrand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\obj\Debug\net10.0\99 Kür 🔥Waldbrand.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\obj\Debug\net10.0\99 Kür 🔥Waldbrand.AssemblyInfo.cs
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\obj\Debug\net10.0\99 Kür 🔥Waldbrand.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\obj\Debug\net10.0\99 Kür 🔥Waldbrand.sourcelink.json
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\obj\Debug\net10.0\99 Kür 🔥Waldbrand.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\obj\Debug\net10.0\refint\99 Kür 🔥Waldbrand.dll
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\obj\Debug\net10.0\99 Kür 🔥Waldbrand.pdb
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\obj\Debug\net10.0\99 Kür 🔥Waldbrand.genruntimeconfig.cache
+C:\Users\benja\Documents\_BLJ\006 C# Programmierung\99 Kür 🔥Waldbrand\obj\Debug\net10.0\ref\99 Kür 🔥Waldbrand.dll
